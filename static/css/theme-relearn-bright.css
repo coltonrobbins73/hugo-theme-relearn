@@ -1,5 +1,5 @@
 :root {
-    --PRIMARY-color: rgba( 131, 201, 50, 1 ); /* brand primary color */
+    --PRIMARY-color: rgba( 177, 61, 255, 1 ); /* brand primary color */
     --SECONDARY-color: rgba( 99, 128, 208, 1 ); /* brand secondary color */
     --ACCENT-color: rgba( 255, 136, 255, 1 ); /* brand accent color, used for search highlights */
 
@@ -31,7 +31,7 @@
     --MENU-SEARCH-BG-color: rgba( 255, 255, 255, .2 ); /* background color of search box */
     --MENU-SEARCH-BORDER-color: transparent; /* border color of search box */
 
-    --MENU-SECTIONS-BG-color: rgba( 131, 201, 50, 1 ); /* background of the menu; this is NOT just a color value but can be a complete CSS background definition including gradients, etc. */
+    --MENU-SECTIONS-BG-color: rgba( 177, 61, 255, 1 ); /* background of the menu; this is NOT just a color value but can be a complete CSS background definition including gradients, etc. */
     --MENU-SECTIONS-ACTIVE-BG-color: transparent; /* background color of the active menu section */
     --MENU-SECTIONS-LINK-color: rgba( 50, 50, 50, 1 ); /* link color of menu topics */
     --MENU-SECTIONS-LINK-HOVER-color: rgba( 255, 255, 255, 1 ); /* hovered link color of menu topics */
